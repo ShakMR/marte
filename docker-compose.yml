@@ -3,3 +3,8 @@ services:
   marte:
     build:
       context: .
+
+networks:
+  default:
+    external:
+      name: webplatform_suilabs
