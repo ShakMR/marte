@@ -1,3 +1,4 @@
 [submodule "themes/cupertino"]
 	path = themes/cupertino
 	url = git@github.com:MrWillCom/hexo-theme-cupertino.git
+	ignore = dirty
