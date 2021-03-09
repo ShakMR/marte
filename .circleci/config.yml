@@ -32,7 +32,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-            at: ./public
+            at: .
       - deploy:
           command: |
             cd ci-scripts
