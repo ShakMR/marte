@@ -11,6 +11,7 @@ jobs:
       - checkout
       - run: git submodule sync
       - run: git submodule update --init
+      - run: rm themes/*/_config.yml
       - restore_cache:
           keys:
             - v1-dependencies-{{ checksum "./package.json" }}
