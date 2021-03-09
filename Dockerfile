@@ -8,4 +8,8 @@ COPY public public
 
 RUN npm i http-server
 
+ENV VIRTUAL_HOST=marte.suilabs.com
+ENV LETSENCRYPT_HOST=marte.suilabs.com
+ENV LETSENCRYPT_EMAIL=borja.arias.upc@gmail.com
+
 CMD ["npx", "http-server", "public"]
