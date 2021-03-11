@@ -1,7 +1,7 @@
 ---
 title: "Dia 1 - la llegada \U0001F6EC"
 date: 2021-03-09 23:14:31
-tags:
+tags: llegada, primer dia, vuelo, maleta perdida
 cover_image: https://image.freepik.com/foto-gratis/avion-aterrizando-exactamente-aeropuerto-pista_165577-193.jpg
 ---
 
