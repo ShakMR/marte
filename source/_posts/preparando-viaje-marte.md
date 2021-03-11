@@ -4,7 +4,7 @@ tags:
 cover_image: 'https://d26aplmy81ikda.cloudfront.net/mars07-100~3840x2160.jpg'
 cover_image_alt: Spaceship approaching Mars
 categories: []
-date: 2021-03-09 20:22:00
+date: 2021-03-08 20:22:00
 ---
 <link rel="stylesheet" href="/style.css" />
 
@@ -41,16 +41,10 @@ Mientras iba en el bus, la postal virtual donde mis compañeros y amigos habían
 
 Quedaban 12 días para irse. Mucha mudanza que preparar, tests de COVID que hacer, y mucha (relativamente) gente de la que despedirse. No todas las despedidas fueron presenciales, entre el tiempo disponible y el COVID había mucho que gestionar y priorizar. Un trello board para llevar constancia de lo queda por hacer. Gracias a todos por vuestros mensajitos, llamadas, tiempo para ir en comer, llevarme a pasear por BCN una vez más, la ayuda con el piso (😘 madere y padere). Especial agradecimiento a Auri y Niki, por no hacer nada y ser tan monos y loquillos.
 
-<div class="container">
-    <div class="card">
-        <div class="cover-img">
-            <img src="https://d26aplmy81ikda.cloudfront.net/photo_2021-03-10_14-27-14.jpg" alt="Auri y Niki tomando el sol">
-        </div>
-        <div class="content">
-            <p class="title">Auri y Niki tomando el sol</p>
-        </div>
-    </div>
-</div>
+<figure>
+    <img src="https://d26aplmy81ikda.cloudfront.net/photo_2021-03-10_14-27-14.jpg" alt="Auri y Niki tomando el sol">
+    <figcaption>Auri y Niki tomando el sol</figcaption>
+</figure>
 
 Mi itinerario hoy es Barcelona - Frankfurt, Frankfurt - Vienna. Del aeropuerto a un Airbnb en el que estaré 3 semanas (con al menos cinco días de cuarentena). El lunes 15 empiezo en la nueva oficina.
 
