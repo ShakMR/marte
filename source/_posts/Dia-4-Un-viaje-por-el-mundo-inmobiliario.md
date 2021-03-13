@@ -138,6 +138,7 @@ A, y por este piso, de uno 83m<sup>2</sup> te pide unos 1000 €. Claro que est�
 
 
 Eso es todo en la sección de hoy. Espero que os hayáis divertido porque yo me he reído bastante.
+Obviamente durante el día de hoy también he hecho otras cosas, pero no os voy a contar toda mi vide, ni que fuese mi blog o algo.
 
 ## PD
 Oh, y una cosa más de ayer. Como no me encontraba muy bien me fui a dormir de 12 a 14 y para ayudarme me puse el audiolibro de 'El instituto' de Stephen King. Me puse el temporizador para que no se me fuera mucho el libro si me quedaba dormido. Pero lo que ocurrió realmente es que me dormí y me monté la historia en mis sueños. No os lo puedo explicar por qué no me acuerdo de nada últimamente, pero si os interesa este tema pasaros por el canal de youtube de [Neko](https://www.youtube.com/channel/UCeSpcNgLu0KFdN4N-v_CEwA) y os mirais los video de los sueños. Y de paso el video de la excursión de Aigüestortes. Yo ya lo he visto unas 7 veces y nunca esta de más.
