@@ -1,6 +1,6 @@
 ---
 title: Dia 6 - Freedom
-cover_image: 'https://d26aplmy81ikda.cloudfront.net/photo_2021-03-14_21-58-48.gif'
+cover_image: 'https://d26aplmy81ikda.cloudfront.net/photo_2021-03-14_21-58-48.jpg'
 date: 2021-03-14 21:52:50
 tags:
 ---
