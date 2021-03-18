@@ -1,7 +1,7 @@
 ---
 title: Dia 8 - Mirando donde piso
 cover_image: 'https://www.newsslash.com/images/upload/tag_teaser/5040-dr-house.jpg'
-date: 2021-03-17 22:00:50
+date: 2021-03-17 23:00:50
 tags:
 ---
 
