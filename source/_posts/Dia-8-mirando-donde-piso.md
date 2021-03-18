@@ -45,6 +45,12 @@ A esto de las 18 había quedado para hacer la visita al piso. Así que salí cor
     <img src="https://d26aplmy81ikda.cloudfront.net/recorrido airbnb.png" alt="">
 </figure>
 
+<div class="container">
+    <div class="card videoWrapper">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iUZ57AzR5A8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
 Para que os hagáis una idea. Barcelona son 5km de lado a lado (Sants - Besos). Este recorrido me lleva 22 minutos en una línea y me hace gracia que en Barcelona sería probablemente el doble.
 Conocí a Markus y a su mujer (no recuerdo si me dijo el nombre). Ví el piso y les dije que les comentaría algo más tarde. El contrato era solo para 3 meses lo cual no es mucho pero me daba tiempo para buscar algo más tranquilamente. Coste mensual con Gastos incluidos, no está mal. Me tomé los 22 minutos que tarda el metro de vuelta a la oficina para pensarlo y enviarle un mensaje diciéndole que cuándo firmábamos.
 
