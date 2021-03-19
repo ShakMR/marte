@@ -19,7 +19,7 @@ Despertar después del día anterior fue bién, todo en orden:
 
 <div class="container">
     <div class="card videoWrapper">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QqFuBaDiKTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/QqFuBaDiKTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ A esto de las 18 había quedado para hacer la visita al piso. Así que salí cor
 
 <div class="container">
     <div class="card videoWrapper">
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iUZ57AzR5A8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/iUZ57AzR5A8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
